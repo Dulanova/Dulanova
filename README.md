@@ -7,6 +7,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00FFF0&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Dulanova!;💻+A+Passionate+Software+Engineer;🌟+Building+Creative+and+Powerful+Solutions;🚀+Welcome+to+My+Digital+Space!" alt="Typing SVG">
 </h1>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/currently-online-3fb950?style=plastic&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/playing-Black%20Desert-5865F2?style=plastic&logo=steam&logoColor=white"/>
+  <img src="https://img.shields.io/badge/coding-Codexysia-0ea5e9?style=plastic&logo=codecrafters&logoColor=white"/>
+  <img src="https://img.shields.io/badge/listening%20to-nothing%20rn-22c55e?&style=plastic&logo=spotify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/writting-nothing%20rn-ff500a?&style=plastic&logo=wattpad&logoColor=white"/>
+</p>
+
 ---
 
 ## 🧩 About Me
