@@ -1,6 +1,6 @@
 <!-- 🌌 DULANOVA PORTFOLIO README 🌌 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=2,20,30&text=DULANOVA%20🌱%20Software%20Engineer&fontAlignY=35&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=DULANOVA%20🌱%20Software%20Engineer&fontSize=40&color=0:38ef7d,100:11998e&stroke=11998e" />
 </p>
 
 <h1 align="center">
@@ -58,7 +58,7 @@ motto: "Code is an art — and every line tells a story."
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Dulanova&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00f0a0&icon_color=00f0ff" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dulanova&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D&background=0D1117" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dulanova&theme=whatsapp-dark2&date_format=j%20M%5B%20Y%5D&background=0D1117" height="160px"/>
 </p>
 
 ---
@@ -88,5 +88,26 @@ motto: "Code is an art — and every line tells a story."
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&customColorList=2,20,30" />
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 150" style="background:#0d1117;">
+    <defs>
+      <linearGradient id="grid-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" style="stop-color:#38ef7d;stop-opacity:0.8" />
+        <stop offset="100%" style="stop-color:#11998e;stop-opacity:0" />
+      </linearGradient>
+    </defs>
+    <g stroke="url(#grid-grad)" stroke-width="1.5">
+      <!-- Garis Horizontal perspektif -->
+      <line x1="0" y1="50" x2="1440" y2="50" />
+      <line x1="0" y1="80" x2="1440" y2="80" />
+      <line x1="0" y1="120" x2="1440" y2="120" />
+      <!-- Garis Vertikal perspektif -->
+      <line x1="720" y1="0" x2="720" y2="150" />
+      <line x1="620" y1="0" x2="520" y2="150" />
+      <line x1="820" y1="0" x2="920" y2="150" />
+      <line x1="520" y1="0" x2="320" y2="150" />
+      <line x1="920" y1="0" x2="1120" y2="150" />
+      <line x1="420" y1="0" x2="120" y2="150" />
+      <line x1="1020" y1="0" x2="1320" y2="150" />
+    </g>
+  </svg>
 </p>
