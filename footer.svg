@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 150" style="background:#0d1117;">
+  <defs>
+    <linearGradient id="grid-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#38ef7d;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#11998e;stop-opacity:0" />
+    </linearGradient>
+  </defs>
+  <g stroke="url(#grid-grad)" stroke-width="1.5">
+    <!-- Garis Horizontal perspektif -->
+    <line x1="0" y1="50" x2="1440" y2="50" />
+    <line x1="0" y1="80" x2="1440" y2="80" />
+    <line x1="0" y1="120" x2="1440" y2="120" />
+    <!-- Garis Vertikal perspektif -->
+    <line x1="720" y1="0" x2="720" y2="150" />
+    <line x1="620" y1="0" x2="520" y2="150" />
+    <line x1="820" y1="0" x2="920" y2="150" />
+    <line x1="520" y1="0" x2="320" y2="150" />
+    <line x1="920" y1="0" x2="1120" y2="150" />
+    <line x1="420" y1="0" x2="120" y2="150" />
+    <line x1="1020" y1="0" x2="1320" y2="150" />
+  </g>
+</svg>
