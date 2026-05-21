@@ -9,7 +9,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/currently-online-3fb950?style=plastic&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/playing-Black%20Desert-5865F2?style=plastic&logo=steam&logoColor=white"/>
+  <a href="https://store.steampowered.com/app/582660/Black_Desert/">
+    <img src="https://img.shields.io/badge/playing-Black%20Desert-5865F2?style=plastic&logo=steam&logoColor=white"/>
+  </a>
   <img src="https://img.shields.io/badge/coding-Codexysia-0ea5e9?style=plastic&logo=codecrafters&logoColor=white"/>
   <img src="https://img.shields.io/badge/listening%20to-nothing%20rn-22c55e?&style=plastic&logo=spotify&logoColor=white"/>
   <img src="https://img.shields.io/badge/writting-nothing%20rn-ff500a?&style=plastic&logo=wattpad&logoColor=white"/>
