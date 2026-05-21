@@ -57,7 +57,7 @@ motto: "Code is an art — and every line tells a story."
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dulanova&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00f0a0&icon_color=00f0ff" height="160px"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Dulanova&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00f0a0&icon_color=00f0ff" height="160px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Dulanova&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D&background=0D1117" height="160px"/>
 </p>
 
